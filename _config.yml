@@ -9,7 +9,7 @@ minimal_mistakes_skin: default
 author:
   avatar: /assets/bio_photo/avatar.jpg
   email: lzrqna974@gmail.com
-  bio: 行百里者半九十
+  bio: none
 
 defaults:
   - scope:
